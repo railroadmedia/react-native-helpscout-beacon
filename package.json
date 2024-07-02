@@ -22,10 +22,6 @@
   "license": "MIT",
   "licenseFilename": "LICENSE",
   "readmeFilename": "README.md",
-  "peerDependencies": {
-    "react": "18.2.0",
-    "react-native": "0.71.4"
-  },
   "devDependencies": {
     "react": "18.2.0",
     "react-native": "0.71.4"
