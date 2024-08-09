@@ -10,7 +10,9 @@
     "android/build.gradle",
     "android/src",
     "ios/",
-    "lib/**/*"
+    "lib/**/*",
+    "index.ts",
+    "types.ts"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
